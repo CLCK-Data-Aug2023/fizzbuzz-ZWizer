@@ -11,7 +11,7 @@ def num(i):
     return i
 
 print("\n"*5)
-print("I'll check if your number divisible to 3 or 5 or both numbers")
+print("I'll check if your number divisible to 3 or 5 or both numbers,")
 print("you'll see Fizz, Buzz or FizzBuzz respectively if it's matches")
 print("let's begin: \n")
 try:
